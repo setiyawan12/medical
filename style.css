@@ -1,0 +1,58 @@
+/* body{
+    margin: 25px;
+} */
+
+.certificate{
+    text-align: center;
+}
+table{
+    /* empty-cells: hide; */
+    padding: 10px 10px;
+}
+.table1{
+    margin-left: 19px;
+}
+.table2{
+    margin-left: -31px;
+}
+.table3{
+    margin-left: 34px;
+    margin-top: 0px;
+}
+.table3 tr td{
+    width: 1078px;
+    height: 40px;
+}
+.lebar{
+    width: 60px;
+}
+.tinggi{
+    height: 54px;
+}
+.tinggi2{
+    height: 27px;
+}
+.tinggi3{
+    height: 34px;
+}
+.tinggi4{
+    height: 150px;
+}
+.tinggi5{
+    height: 261px;
+}
+.tinggi6{
+    height: 73px;
+}
+.tinggi7{
+    height: 40px;
+}
+.tinggi8{
+    height: 65px;
+}
+.teks{
+    text-align: right;
+}
+.image{
+    height: 100px;
+}
